@@ -1,3 +1,3 @@
 
 # Mon premier script Python
-print("Système opérationnel.")
+print ("Système opérationnel.")
